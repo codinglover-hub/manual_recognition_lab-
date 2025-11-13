@@ -1,0 +1,16 @@
+Task 1: Verification – Is that a lamp?
+
+Image 1: Lamp 1 – https://images.unsplash.com/photo-1504208434309-cb69f4fe52b0
+
+Answer: Yes
+Justification: The image clearly shows a lamp with a conical shade and a visible light source on a stand, typical of indoor lighting fixtures.
+
+Image 2: Lamp 2 – https://images.unsplash.com/photo-1507226983735-a838615193b0
+
+Answer: Yes
+Justification: The object has a recognizable bulb and lampshade structure with metallic texture and illumination, matching the design of a modern lamp.
+
+Image 3: Non-lamp 1 – https://images.unsplash.com/photo-1503602642458-232111445657
+
+Answer: No
+Justification: The image shows a cup of coffee and some books on a table; there is no lamp shape or lighting element visible in the scene.
