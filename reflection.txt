@@ -1,0 +1,5 @@
+Hardest manual task: Detection – locating all people in a street scene was challenging due to occlusions and small figures.
+
+ML/DL automation: Can automatically detect, classify, and identify objects, saving time and improving consistency.
+
+Key insight: Manual recognition is time-consuming and error-prone, whereas ML/DL can capture subtle patterns humans may miss.
