@@ -1,0 +1,11 @@
+Scene Category: INDOOR
+Reasoning :
+The image shows sofa, pillows, lamps, artwork, and furniture, which are strong indoor cues.
+
+There is artificial lighting from lamps.
+
+The presence of decor items and framed artwork indicates a living room interior.
+
+Even though windows show outside, the dominant visual scene is inside the room.
+
+
