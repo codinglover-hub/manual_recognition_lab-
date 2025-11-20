@@ -1,0 +1,63 @@
+1) Watch
+
+Region: Around the round object with “HUNTERS RACE” text.
+
+Crop coordinates (example): y1=200, y2=420, x1=450, x2=750
+
+Justification: Central object in the image; easily recognizable as a wristwatch.
+
+2) Bracelet
+
+Region: Left side of the watch, circular beads.
+
+Crop coordinates (example): y1=250, y2=400, x1=150, x2=300
+
+Justification: Circular beaded accessory, distinct from watch and other items.
+
+3) Book
+
+Region: Right side of the watch.
+
+Crop coordinates (example): y1=100, y2=350, x1=800, x2=1050
+
+Justification: Rectangular shape with text visible; clearly a printed book.
+
+4) Sunglasses
+
+Region: Bottom left corner.
+
+Crop coordinates (example): y1=450, y2=600, x1=100, x2=350
+
+Justification: Dark frame with lenses; recognizable as sunglasses.
+
+5) Watch Strap
+
+Region: Entire length of green strap attached to the watch.
+
+Crop coordinates (example): y1=220, y2=420, x1=400, x2=800
+
+Justification: Separate material from the watch face; visible strap with loops.
+
+6) Wooden Table Surface
+
+Region: Background surrounding objects.
+
+Crop coordinates (example): y1=0, y2=700, x1=0, x2=1200
+
+Justification: Textured wood pattern; provides context and background.
+
+7) Book Text (Partial)
+
+Region: Upper part of book with “FOR PEOPLE” text.
+
+Crop coordinates (example): y1=120, y2=200, x1=820, x2=1000
+
+Justification: Close-up on text as a separate object class for visual categorization.
+
+8) Metal Loops on Watch Strap
+
+Region: Gold loops on strap.
+
+Crop coordinates (example): y1=230, y2=300, x1=500, x2=700
+
+Justification: Small metallic parts; distinct texture and color from strap.
