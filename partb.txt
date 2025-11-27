@@ -1,0 +1,35 @@
+Scale
+
+Problem: The object in the image is larger or smaller than the template.
+
+Why it fails: Template matching compares pixel values directly, so a template at one scale won’t match an object at a different scale.
+
+Illumination
+
+Problem: Lighting changes (too bright, too dark, shadows).
+
+Why it fails: Pixel intensity values differ under varying lighting, so even if the object is the same, the template won’t match.
+
+Occlusion
+
+Problem: Part of the object is blocked by another object.
+
+Why it fails: Template matching needs the whole pattern to match. Missing parts break the match, resulting in a failed detection.
+
+Deformation
+
+Problem: The object is stretched, rotated, or bent.
+
+Why it fails: Template matching assumes a rigid shape. Deformations change the object’s geometry, so pixel-by-pixel comparison fails.
+
+Background clutter
+
+Problem: The background has similar textures or patterns as the object.
+
+Why it fails: Template matching cannot distinguish object from background if both look similar, producing false matches.
+
+Viewpoint
+
+Problem: The object is viewed from a different angle.
+
+Why it fails: Template matching assumes the object has the same orientation as the template. Different viewpoints change the shape in the image, breaking the match.
